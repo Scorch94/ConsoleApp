@@ -1,0 +1,15 @@
+E:\Segundo ano- 2º semestre\Programação avançada\ConsoleAppGitub\bin\Debug\net6.0\ConsoleAppGitub.exe
+E:\Segundo ano- 2º semestre\Programação avançada\ConsoleAppGitub\bin\Debug\net6.0\ConsoleAppGitub.deps.json
+E:\Segundo ano- 2º semestre\Programação avançada\ConsoleAppGitub\bin\Debug\net6.0\ConsoleAppGitub.runtimeconfig.json
+E:\Segundo ano- 2º semestre\Programação avançada\ConsoleAppGitub\bin\Debug\net6.0\ConsoleAppGitub.dll
+E:\Segundo ano- 2º semestre\Programação avançada\ConsoleAppGitub\bin\Debug\net6.0\ConsoleAppGitub.pdb
+E:\Segundo ano- 2º semestre\Programação avançada\ConsoleAppGitub\obj\Debug\net6.0\ConsoleAppGitub.csproj.AssemblyReference.cache
+E:\Segundo ano- 2º semestre\Programação avançada\ConsoleAppGitub\obj\Debug\net6.0\ConsoleAppGitub.GeneratedMSBuildEditorConfig.editorconfig
+E:\Segundo ano- 2º semestre\Programação avançada\ConsoleAppGitub\obj\Debug\net6.0\ConsoleAppGitub.AssemblyInfoInputs.cache
+E:\Segundo ano- 2º semestre\Programação avançada\ConsoleAppGitub\obj\Debug\net6.0\ConsoleAppGitub.AssemblyInfo.cs
+E:\Segundo ano- 2º semestre\Programação avançada\ConsoleAppGitub\obj\Debug\net6.0\ConsoleAppGitub.csproj.CoreCompileInputs.cache
+E:\Segundo ano- 2º semestre\Programação avançada\ConsoleAppGitub\obj\Debug\net6.0\ConsoleAppGitub.dll
+E:\Segundo ano- 2º semestre\Programação avançada\ConsoleAppGitub\obj\Debug\net6.0\refint\ConsoleAppGitub.dll
+E:\Segundo ano- 2º semestre\Programação avançada\ConsoleAppGitub\obj\Debug\net6.0\ConsoleAppGitub.pdb
+E:\Segundo ano- 2º semestre\Programação avançada\ConsoleAppGitub\obj\Debug\net6.0\ConsoleAppGitub.genruntimeconfig.cache
+E:\Segundo ano- 2º semestre\Programação avançada\ConsoleAppGitub\obj\Debug\net6.0\ref\ConsoleAppGitub.dll
