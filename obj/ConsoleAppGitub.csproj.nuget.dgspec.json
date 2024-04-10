@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Segundo ano- 2º semestre\\Programação avançada\\ConsoleAppGitub\\ConsoleAppGitub.csproj": {}
+    "Y:\\Programação Avançada\\ConsoleApp\\ConsoleApp\\ConsoleAppGitub.csproj": {}
   },
   "projects": {
-    "E:\\Segundo ano- 2º semestre\\Programação avançada\\ConsoleAppGitub\\ConsoleAppGitub.csproj": {
+    "Y:\\Programação Avançada\\ConsoleApp\\ConsoleApp\\ConsoleAppGitub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Segundo ano- 2º semestre\\Programação avançada\\ConsoleAppGitub\\ConsoleAppGitub.csproj",
+        "projectUniqueName": "Y:\\Programação Avançada\\ConsoleApp\\ConsoleApp\\ConsoleAppGitub.csproj",
         "projectName": "ConsoleAppGitub",
-        "projectPath": "E:\\Segundo ano- 2º semestre\\Programação avançada\\ConsoleAppGitub\\ConsoleAppGitub.csproj",
-        "packagesPath": "C:\\Users\\a22206760\\.nuget\\packages\\",
-        "outputPath": "E:\\Segundo ano- 2º semestre\\Programação avançada\\ConsoleAppGitub\\obj\\",
+        "projectPath": "Y:\\Programação Avançada\\ConsoleApp\\ConsoleApp\\ConsoleAppGitub.csproj",
+        "packagesPath": "C:\\Users\\a22205395\\.nuget\\packages\\",
+        "outputPath": "Y:\\Programação Avançada\\ConsoleApp\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -19,7 +19,7 @@
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\a22206760\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\a22205395\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
