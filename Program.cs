@@ -4,25 +4,22 @@
     {
         static void Main(string[] args)
         {
-            Quadrado quadrado = new Quadrado(4); // Criando um quadrado com lado de comprimento 5
-            Console.WriteLine($"Perímetro do quadrado: {quadrado.Perimetro()}");
-            Console.WriteLine($"Área do quadrado: {quadrado.Area()}");
-            Console.WriteLine($"Diagonal do quadrado: {quadrado.Diagonal()}");
+            Quadrado modelQ = new Quadrado { Lado= 4};
+            QuadradoView viewQ = new QuadradoView();
 
-            try
-            {
-                double baseRetangulo = 5;
-                double alturaRetangulo = 3;
+            QuadradoController controller = new QuadradoController(modelQ, viewQ);
 
-                Retangulo retangulo = new Retangulo(baseRetangulo, alturaRetangulo);
+            controller.AtualizarView();
 
-                Console.WriteLine("Área do retângulo: " + retangulo.CalcularArea());
-                Console.WriteLine("Perímetro do retângulo: " + retangulo.CalcularPerimetro());
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine("Ocorreu uma exceção: " + ex.Message);
-            }
+            Retangulo modelR = new Retangulo { Base=4, Altura=3 };
+            RetanguloView viewR = new RetanguloView();
+
+            RetanguloController controllerR = new RetanguloController(modelR, viewR);
+
+            controllerR.AtualizarView();
+
+
+
         }
     }
 }

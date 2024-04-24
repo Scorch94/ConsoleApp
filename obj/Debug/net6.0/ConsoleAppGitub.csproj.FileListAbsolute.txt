@@ -13,3 +13,18 @@ E:\Segundo ano- 2º semestre\Programação avançada\ConsoleAppGitub\obj\Debug\n
 E:\Segundo ano- 2º semestre\Programação avançada\ConsoleAppGitub\obj\Debug\net6.0\ConsoleAppGitub.pdb
 E:\Segundo ano- 2º semestre\Programação avançada\ConsoleAppGitub\obj\Debug\net6.0\ConsoleAppGitub.genruntimeconfig.cache
 E:\Segundo ano- 2º semestre\Programação avançada\ConsoleAppGitub\obj\Debug\net6.0\ref\ConsoleAppGitub.dll
+C:\Users\a22206760\Documents\GitHub\ConsoleApp\obj\Debug\net6.0\ConsoleAppGitub.csproj.AssemblyReference.cache
+C:\Users\a22206760\Documents\GitHub\ConsoleApp\obj\Debug\net6.0\ConsoleAppGitub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a22206760\Documents\GitHub\ConsoleApp\obj\Debug\net6.0\ConsoleAppGitub.AssemblyInfoInputs.cache
+C:\Users\a22206760\Documents\GitHub\ConsoleApp\obj\Debug\net6.0\ConsoleAppGitub.AssemblyInfo.cs
+C:\Users\a22206760\Documents\GitHub\ConsoleApp\obj\Debug\net6.0\ConsoleAppGitub.csproj.CoreCompileInputs.cache
+C:\Users\a22206760\Documents\GitHub\ConsoleApp\obj\Debug\net6.0\ConsoleAppGitub.dll
+C:\Users\a22206760\Documents\GitHub\ConsoleApp\obj\Debug\net6.0\refint\ConsoleAppGitub.dll
+C:\Users\a22206760\Documents\GitHub\ConsoleApp\obj\Debug\net6.0\ConsoleAppGitub.pdb
+C:\Users\a22206760\Documents\GitHub\ConsoleApp\bin\Debug\net6.0\ConsoleAppGitub.exe
+C:\Users\a22206760\Documents\GitHub\ConsoleApp\bin\Debug\net6.0\ConsoleAppGitub.deps.json
+C:\Users\a22206760\Documents\GitHub\ConsoleApp\bin\Debug\net6.0\ConsoleAppGitub.runtimeconfig.json
+C:\Users\a22206760\Documents\GitHub\ConsoleApp\bin\Debug\net6.0\ConsoleAppGitub.dll
+C:\Users\a22206760\Documents\GitHub\ConsoleApp\bin\Debug\net6.0\ConsoleAppGitub.pdb
+C:\Users\a22206760\Documents\GitHub\ConsoleApp\obj\Debug\net6.0\ConsoleAppGitub.genruntimeconfig.cache
+C:\Users\a22206760\Documents\GitHub\ConsoleApp\obj\Debug\net6.0\ref\ConsoleAppGitub.dll
