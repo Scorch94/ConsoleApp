@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['retangulo_0',['Retangulo',['../class_retangulo.html',1,'']]],
-  ['retangulocontroller_1',['RetanguloController',['../class_console_app_gitub_1_1_retangulo_controller.html',1,'ConsoleAppGitub']]],
-  ['retanguloview_2',['RetanguloView',['../class_console_app_gitub_1_1_retangulo_view.html',1,'ConsoleAppGitub']]]
+  ['calculararea_0',['CalcularArea',['../class_retangulo.html#a3d88da4e21b4f255ee7de12aa4bd853f',1,'Retangulo']]],
+  ['calcularperimetro_1',['CalcularPerimetro',['../class_retangulo.html#a02808f06b4edfbdba24dffa93c2e6281',1,'Retangulo']]],
+  ['consoleappgitub_2',['ConsoleAppGitub',['../namespace_console_app_gitub.html',1,'']]]
 ];
