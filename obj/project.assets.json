@@ -8,7 +8,7 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\a22205395\\.nuget\\packages\\": {},
+    "C:\\Users\\a22206760\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
@@ -16,11 +16,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Y:\\Programação Avançada\\ConsoleApp\\ConsoleApp\\ConsoleAppGitub.csproj",
+      "projectUniqueName": "C:\\Users\\a22206760\\Documents\\GitHub\\ConsoleApp\\ConsoleAppGitub.csproj",
       "projectName": "ConsoleAppGitub",
-      "projectPath": "Y:\\Programação Avançada\\ConsoleApp\\ConsoleApp\\ConsoleAppGitub.csproj",
-      "packagesPath": "C:\\Users\\a22205395\\.nuget\\packages\\",
-      "outputPath": "Y:\\Programação Avançada\\ConsoleApp\\ConsoleApp\\obj\\",
+      "projectPath": "C:\\Users\\a22206760\\Documents\\GitHub\\ConsoleApp\\ConsoleAppGitub.csproj",
+      "packagesPath": "C:\\Users\\a22206760\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\a22206760\\Documents\\GitHub\\ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -28,7 +28,7 @@
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\a22205395\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\a22206760\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"

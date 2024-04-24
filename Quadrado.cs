@@ -20,7 +20,7 @@ namespace ConsoleAppGitub
                 if (value > 0)
                     _lado = value;
             }
-        }
+        } 
 
         // Construtor vazio
         public Quadrado() {}
