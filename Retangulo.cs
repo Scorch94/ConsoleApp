@@ -36,7 +36,9 @@ public class Retangulo
         }
     }
 
-    public Retangulo(Retangulo r) { Base = r.Base;, Altura = r.Altura; }
+    public Retangulo() { }
+
+    public Retangulo(Retangulo r) { Base = r.Base; Altura = r.Altura; }
 
     public double CalcularArea()
     {
