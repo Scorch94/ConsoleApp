@@ -11,6 +11,8 @@
 
             controller.AtualizarView();
 
+
+
             Retangulo modelR = new Retangulo { Base=4, Altura=3 };
             RetanguloView viewR = new RetanguloView();
 
