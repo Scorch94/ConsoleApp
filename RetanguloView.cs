@@ -6,11 +6,22 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppGitub
 {
+    using ConsoleAppGitub;
+    using System;
+
+    /// <summary>
+    /// Classe responsável por exibir informações sobre um retângulo.
+    /// </summary>
     public class RetanguloView
     {
-        public void MostrarRetangulo(Retangulo r) 
+        /// <summary>
+        /// Exibe as dimensões, área e perímetro de um retângulo.
+        /// </summary>
+        /// <param name="r">O retângulo a ser exibido.</param>
+        public void MostrarRetangulo(Retangulo r)
         {
-            Console.WriteLine($"Retangulo de base {r.Base} e altura {r.Altura} tem area: {r.CalcularArea()} e perimetro: {r.CalcularPerimetro()}");
+            Console.WriteLine($"Retângulo de base {r.Base} e altura {r.Altura} tem área: {r.CalcularArea()} e perímetro: {r.CalcularPerimetro()}");
         }
     }
+
 }
