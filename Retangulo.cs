@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ConsoleAppGitub;
+using System;
 
 public class Retangulo
 {
@@ -34,6 +35,8 @@ public class Retangulo
                 throw new ArgumentOutOfRangeException("O valor da altura deve ser maior que zero.");
         }
     }
+
+    public Retangulo(Retangulo r) { Base = r.Base;, Altura = r.Altura; }
 
     public double CalcularArea()
     {
